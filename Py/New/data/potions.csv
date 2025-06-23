@@ -1,0 +1,41 @@
+ID,Constant,Name
+474,T2_POTION_ENERGY,Minor Energy Potion,0.1
+469,T2_POTION_HEAL,Minor Healing Potion,0.1
+479,T3_POTION_REVIVE,Minor Gigantify Potion,0.1
+484,T3_POTION_STONESKIN,Minor Resistance Potion,0.1
+623,T3_POTION_ACID,Minor Acid Potion,0.1
+599,T3_POTION_MOB_RESET,Minor Calming Potion,0.1
+611,T3_POTION_CLEANSE2,Minor Cleansing Potion,0.1
+489,T3_POTION_SLOWFIELD,Minor Sticky Potion,0.1
+494,T4_POTION_COOLDOWN,Minor Poison Potion,0.1
+635,T4_POTION_BERSERK,Minor Berserk Potion,0.1
+647,T4_POTION_LAVA,Minor Hellfire Potion,0.1
+659,T4_POTION_GATHER,Minor Gathering Potion,0.1
+671,T4_POTION_TORNADO,Minor Tornado in a Bottle,0.1
+470,T4_POTION_HEAL,Healing Potion,0.1
+475,T4_POTION_ENERGY,Energy Potion,0.4
+490,T5_POTION_SLOWFIELD,Sticky Potion,0.1
+480,T5_POTION_REVIVE,Gigantify Potion,0.1
+485,T5_POTION_STONESKIN,Resistance Potion,0.1
+603,T5_POTION_MOB_RESET,Calming Potion,0.1
+615,T5_POTION_CLEANSE2,Cleansing Potion,0.1
+627,T5_POTION_ACID,Acid Potion,0.1
+496,T6_POTION_COOLDOWN,Poison Potion,0.1
+639,T6_POTION_BERSERK,Berserk Potion,0.1
+651,T6_POTION_LAVA,Hellfire Potion,0.1
+663,T6_POTION_GATHER,Gathering Potion,0.1
+675,T6_POTION_TORNADO,Tornado in a Bottle,0.1
+472,T6_POTION_HEAL,Major Healing Potion,0.1
+477,T6_POTION_ENERGY,Major Energy Potion,0.1
+607,T7_POTION_MOB_RESET,Major Calming Potion,0.1
+482,T7_POTION_REVIVE,Major Gigantify Potion,0.1
+487,T7_POTION_STONESKIN,Major Resistance Potion,0.1
+492,T7_POTION_SLOWFIELD,Major Sticky Potion,0.1
+619,T7_POTION_CLEANSE2,Major Cleansing Potion,0.1
+631,T7_POTION_ACID,Major Acid Potion,0.1
+498,T8_POTION_COOLDOWN,Major Poison Potion,0.1
+500,T8_POTION_CLEANSE,Invisibility Potion,0.1
+643,T8_POTION_BERSERK,Major Berserk Potion,0.1
+655,T8_POTION_LAVA,Major Hellfire Potion,0.1
+667,T8_POTION_GATHER,Major Gathering Potion,0.1
+679,T8_POTION_TORNADO,Major Tornado in a Bottle,0.1
