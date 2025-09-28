@@ -1,0 +1,40 @@
+ID,Constant,Name
+126,T2_AGARIC,Arcane Agaric
+127,T3_COMFREY,Brightleaf Comfrey
+901,T8_BUTTER,Cow's Butter
+137,T8_MILK,Cow's Milk
+124,T7_CORN,Bundle of Corn
+128,T4_BURDOCK,Crenellated Burdock
+129,T5_TEASEL,Dragon Teasel
+130,T6_FOXGLOVE,Elusive Foxglove
+131,T7_MULLEIN,Firetouched Mullein
+135,T5_EGG,Goose Eggs
+132,T8_YARROW,Ghoul Yarrow
+134,T4_MILK,Goat's Milk
+899,T4_BUTTER,Goat's Butter
+133,T3_EGG,Hen Eggs
+123,T6_POTATO,Potatoes
+125,T8_PUMPKIN,Pumpkin
+136,T6_MILK,Sheep's Milk
+900,T6_BUTTER,Sheep's Butter
+1868,T3_ALCHEMY_RARE_EAGLE,Rugged Dawnfeather
+1869,T5_ALCHEMY_RARE_EAGLE,Fine Dawnfeather
+1870,T7_ALCHEMY_RARE_EAGLE,Excellent Dawnfeather
+1862,T3_ALCHEMY_RARE_IMP,Rugged Imp's Horn
+1863,T5_ALCHEMY_RARE_IMP,Fine Imp's Horn
+1864,T7_ALCHEMY_RARE_IMP,Excellent Imp's Horn
+1865,T3_ALCHEMY_RARE_ELEMENTAL,Rugged Runestone Tooth
+1866,T5_ALCHEMY_RARE_ELEMENTAL,Fine Runestone Tooth
+1867,T7_ALCHEMY_RARE_ELEMENTAL,Excellent Runestone Tooth
+1850,T3_ALCHEMY_RARE_PANTHER,Rugged Shadow Claws
+1851,T5_ALCHEMY_RARE_PANTHER,Fine Shadow Claws
+1852,T7_ALCHEMY_RARE_PANTHER,Excellent Shadow Claws
+1856,T3_ALCHEMY_RARE_DIREBEAR,Rugged Spirit Paws
+1857,T5_ALCHEMY_RARE_DIREBEAR,Fine Spirit Paws
+1858,T7_ALCHEMY_RARE_DIREBEAR,Excellent Spirit Paws
+1853,T3_ALCHEMY_RARE_ENT,Rugged Sylvian Root
+1854,T5_ALCHEMY_RARE_ENT,Fine Sylvian Root
+1855,T7_ALCHEMY_RARE_ENT,Excellent Sylvian Root
+1859,T3_ALCHEMY_RARE_WEREWOLF,Rugged Werewolf Fangs
+1860,T5_ALCHEMY_RARE_WEREWOLF,Fine Werewolf Fangs
+1861,T7_ALCHEMY_RARE_WEREWOLF,Excellent Werewolf Fangs
